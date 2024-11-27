@@ -18,8 +18,8 @@ I'm a passionate **Software Engineer** and **React Developer** currently working
 - Exploring **Next.js** for server-side rendering and performance optimization.
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/jatin-ramani-115436258/)
-- 🌐 [Portfolio](https://jatin-portfolio-xi.vercel.app/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jatin-ramani-115436258/){:target="_blank"}
+- 🌐 [Portfolio](https://jatin-portfolio-xi.vercel.app){:target="_blank"}
 - 📧 Email: jatinrmn@gmail.com
 
 ---
