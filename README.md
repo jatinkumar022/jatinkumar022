@@ -19,7 +19,7 @@ I'm a passionate **Software Engineer** and **React Developer** currently working
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jatin-ramani-115436258/)
-- 🌐 [Portfolio]([#](https://jatin-portfolio-xi.vercel.app/)) 
+- 🌐 [Portfolio](https://jatin-portfolio-xi.vercel.app/) 
 - 📧 Email: jatinrmn@gmail.com
 
 ---
