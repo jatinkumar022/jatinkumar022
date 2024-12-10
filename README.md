@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jatin Kumar! 🚀
+# Hi there 👋, I'm Jatin Ramani! 🚀
 
 ### About Me
 I'm a passionate **Software Engineer** and **React Developer** currently working at **Dvij Infotech** in Ahmedabad. Alongside my professional journey, I'm pursuing my **Master's in Computer Applications (MCA)** at **Jain University**.
